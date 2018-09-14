@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Styles*/
 #app{
     font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -11,4 +12,19 @@ a.active{
 }
 nav{
     padding-top: 20px;
+=======
+/*Styles*/
+#app{
+    font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color:#4d4d4d;
+    min-width: 550px;
+    max-width: 850px;
+    margin: 0 auto;
+}
+a.active{
+    color:orange;
+}
+nav{
+    padding-top: 20px;
+>>>>>>> a37834bb84baaa3fe82cae863ed6e292d5e75f78
 }
