@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { Component } from 'react';
 
 class CoursesPage extends Component {
@@ -37,18 +36,4 @@ class CoursesPage extends Component {
     }
 }
 
-=======
-import React, { Component } from 'react';
-
-class CoursesPage extends Component {
-    render() {
-        return (
-            <div>
-                <h1>Courses</h1>
-            </div>
-        );
-    }
-}
-
->>>>>>> a37834bb84baaa3fe82cae863ed6e292d5e75f78
 export default CoursesPage;
