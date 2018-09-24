@@ -1,0 +1,3 @@
+reducers/index.js  renamed to  rootreducer.js
+courses renamed to courseReducer and "courses: courseReducer" passed as parameter to combineReducers function in reducers/index.js file (renamed to rootreducer.js)
+in configureStore.js, "import rootReducer from '../reducers';" has been changed to "import rootReducer from '../reducers/rootReducer';"
